@@ -11,8 +11,8 @@ RED = (255, 0, 0)
 GREEN = ( 0, 255, 0)
 DARKGREEN = ( 0, 155, 0)
 DARKGRAY = ( 40, 40, 40)
-blockImg = pygame.image.load('//art/box.png')
-spikeImg = pygame.image.load('//art/spike.png')
+blockImg = pygame.image.load('art/box.png')
+spikeImg = pygame.image.load('art/spike.png')
 
 UP = 'up'
 DOWN = 'down'
